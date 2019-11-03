@@ -1,0 +1,33 @@
+
+
+
+Entity frameWork : ADO.NET Entity Framework es un framework ORM para la plataforma Microsoft .NET
+usar como ORM para crear nuestra base de datos. 
+
+
+-- ctor + tab  =  create a constructor 
+
+IActionResult = permite retornar resultados HTTP al cliente 
+
+Miga de pan : La miga de pan (del inglés breadcrumb) o el hilo de Ariadna (del francés fil d'Ariane) es una técnica de navegación 
+usada en muchas interfaces gráficas de usuario, además de páginas web. Aunque su diseño puede adoptar infinidad de variantes, 
+en términos generales consiste en una línea de texto en la que se indica el recorrido seguido y la forma de regresar. 
+Permite que el usuario conozca la ruta de su ubicación en directorios y subdirectorios, y navegue a través de ella.
+
+
+
+--------------------ANGULAR NOTES-----------------
+
+OnInit : 
+ngOnInit : 
+
+GET REQUEST RETURN AN OBSERVABLE , WHAT IS AN OBSERVABLE ? : is a stream of data that we are getting from our api
+
+
+/value.component.html : to go this just select it all and press ALT + O , to go the page to edit it 
+
+
+Access-Control-Allow-Origin : this feature on the browser protects us from accessing data from an unknown origin. 
+solution : send back a header from our api that has the CORS policy to the client, so the client knows it can trust 
+the contents that its receiving from this server 
+CORS POLICY :  
