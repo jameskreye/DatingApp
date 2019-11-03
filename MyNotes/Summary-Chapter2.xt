@@ -1,0 +1,11 @@
+----------------Summary of what I have Done ----------------------
+
+*Create the web api project
+*Review the default files created by the DotNetCLI
+*Ensure the Web API runs successfully
+*Create our Database using the Code First Aproach or Model First Aproach
+*Add source control 
+*Creta the Angular application 
+*Make HTTP requests from Angular to fetch data from our API
+*Bind data from the HTML to display it on the page
+*Add support for Bootstrap and font-Awesome
