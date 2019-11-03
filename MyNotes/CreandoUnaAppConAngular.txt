@@ -1,0 +1,193 @@
+
+--------------------Creating an Angular App--------------------
+
+
+Your environment has been set up for using Node.js 12.13.0 (x64) and npm.
+
+C:\Windows\System32>cd C:\Users\james\Desktop\DatingApp>
+The syntax of the command is incorrect.
+
+C:\Windows\System32>cd C:\Users\james\Desktop\DatingApp
+
+C:\Users\james\Desktop\DatingApp> ng new DatingApp-SPA
+? Would you like to add Angular routing? No
+? Which stylesheet format would you like to use? CSS
+CREATE DatingApp-SPA/angular.json (3649 bytes)
+CREATE DatingApp-SPA/package.json (1300 bytes)
+CREATE DatingApp-SPA/README.md (1030 bytes)
+CREATE DatingApp-SPA/tsconfig.json (543 bytes)
+CREATE DatingApp-SPA/tslint.json (1953 bytes)
+CREATE DatingApp-SPA/.editorconfig (246 bytes)
+CREATE DatingApp-SPA/.gitignore (631 bytes)
+CREATE DatingApp-SPA/browserslist (429 bytes)
+CREATE DatingApp-SPA/karma.conf.js (1025 bytes)
+CREATE DatingApp-SPA/tsconfig.app.json (270 bytes)
+CREATE DatingApp-SPA/tsconfig.spec.json (270 bytes)
+CREATE DatingApp-SPA/src/favicon.ico (948 bytes)
+CREATE DatingApp-SPA/src/index.html (298 bytes)
+CREATE DatingApp-SPA/src/main.ts (372 bytes)
+CREATE DatingApp-SPA/src/polyfills.ts (2838 bytes)
+CREATE DatingApp-SPA/src/styles.css (80 bytes)
+CREATE DatingApp-SPA/src/test.ts (642 bytes)
+CREATE DatingApp-SPA/src/assets/.gitkeep (0 bytes)
+CREATE DatingApp-SPA/src/environments/environment.prod.ts (51 bytes)
+CREATE DatingApp-SPA/src/environments/environment.ts (662 bytes)
+CREATE DatingApp-SPA/src/app/app.module.ts (314 bytes)
+CREATE DatingApp-SPA/src/app/app.component.html (25498 bytes)
+CREATE DatingApp-SPA/src/app/app.component.spec.ts (1002 bytes)
+CREATE DatingApp-SPA/src/app/app.component.ts (217 bytes)
+CREATE DatingApp-SPA/src/app/app.component.css (0 bytes)
+CREATE DatingApp-SPA/e2e/protractor.conf.js (808 bytes)
+CREATE DatingApp-SPA/e2e/tsconfig.json (214 bytes)
+CREATE DatingApp-SPA/e2e/src/app.e2e-spec.ts (646 bytes)
+CREATE DatingApp-SPA/e2e/src/app.po.ts (262 bytes)
+
+> core-js@2.6.10 postinstall C:\Users\james\Desktop\DatingApp\DatingApp-SPA\node_modules\babel-runtime\node_modules\core-js
+> node postinstall || echo "ignore"
+
+
+> core-js@3.2.1 postinstall C:\Users\james\Desktop\DatingApp\DatingApp-SPA\node_modules\core-js
+> node scripts/postinstall || echo "ignore"
+
+
+> core-js@2.6.10 postinstall C:\Users\james\Desktop\DatingApp\DatingApp-SPA\node_modules\karma\node_modules\core-js
+> node postinstall || echo "ignore"
+
+
+> @angular/cli@8.3.17 postinstall C:\Users\james\Desktop\DatingApp\DatingApp-SPA\node_modules\@angular\cli
+> node ./bin/postinstall/script.js
+
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules\webpack-dev-server\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules\watchpack\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules\karma\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules\@angular\compiler-cli\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.1 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.1: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+added 1188 packages from 1050 contributors and audited 18866 packages in 472.149s
+found 0 vulnerabilities
+
+warning: LF will be replaced by CRLF in .editorconfig.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in angular.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in browserslist.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in e2e/protractor.conf.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in e2e/src/app.e2e-spec.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in e2e/src/app.po.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in e2e/tsconfig.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in karma.conf.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.component.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.component.spec.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.component.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.module.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/environments/environment.prod.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/environments/environment.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/polyfills.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/styles.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/test.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tsconfig.app.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tsconfig.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tsconfig.spec.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tslint.json.
+The file will have its original line endings in your working directory
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'james@JAMES-KREYE.(none)')
+
+C:\Users\james\Desktop\DatingApp>git config --global user.email jamesylover@gmail.com
+
+C:\Users\james\Desktop\DatingApp>git config --global user.name JamesKreye
+
+C:\Users\james\Desktop\DatingApp>dir
+ Volume in drive C has no label.
+ Volume Serial Number is ECBC-9CAA
+
+ Directory of C:\Users\james\Desktop\DatingApp
+
+11/02/2019  03:37 PM    <DIR>          .
+11/02/2019  03:37 PM    <DIR>          ..
+11/02/2019  03:45 PM    <DIR>          DatingApp-SPA
+11/02/2019  02:39 PM    <DIR>          DatingApp.API
+11/02/2019  03:29 PM    <DIR>          MyNotes
+               0 File(s)              0 bytes
+               5 Dir(s)  440,198,938,624 bytes free
+
+C:\Users\james\Desktop\DatingApp>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\james\Desktop\DatingApp>cd DatingApp-SPA
+
+C:\Users\james\Desktop\DatingApp\DatingApp-SPA>dir
+ Volume in drive C has no label.
+ Volume Serial Number is ECBC-9CAA
+
+ Directory of C:\Users\james\Desktop\DatingApp\DatingApp-SPA
+
+11/02/2019  03:45 PM    <DIR>          .
+11/02/2019  03:45 PM    <DIR>          ..
+11/02/2019  03:37 PM               246 .editorconfig
+11/02/2019  03:37 PM               631 .gitignore
+11/02/2019  03:37 PM             3,649 angular.json
+11/02/2019  03:37 PM               429 browserslist
+11/02/2019  03:37 PM    <DIR>          e2e
+11/02/2019  03:37 PM             1,025 karma.conf.js
+11/02/2019  03:45 PM    <DIR>          node_modules
+11/02/2019  03:45 PM           475,115 package-lock.json
+11/02/2019  03:37 PM             1,300 package.json
+11/02/2019  03:37 PM             1,030 README.md
+11/02/2019  03:37 PM    <DIR>          src
+11/02/2019  03:37 PM               270 tsconfig.app.json
+11/02/2019  03:37 PM               543 tsconfig.json
+11/02/2019  03:37 PM               270 tsconfig.spec.json
+11/02/2019  03:37 PM             1,953 tslint.json
+              12 File(s)        486,461 bytes
+               5 Dir(s)  440,197,758,976 bytes free
+
+C:\Users\james\Desktop\DatingApp\DatingApp-SPA>cd ..
+
+C:\Users\james\Desktop\DatingApp>cd code .

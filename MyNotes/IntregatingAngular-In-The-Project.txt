@@ -1,0 +1,19 @@
+C:\Users\james\Desktop\DatingApp\DatingApp.API>npm install -g @angular/cli
+C:\Users\james\AppData\Roaming\npm\ng -> C:\Users\james\AppData\Roaming\npm\node_modules\@angular\cli\bin\ng
+
+> @angular/cli@8.3.17 postinstall C:\Users\james\AppData\Roaming\npm\node_modules\@angular\cli
+> node ./bin/postinstall/script.js
+
+? Would you like to share anonymous usage data with the Angular Team at Google under
+Google’s Privacy Policy at https://policies.google.com/privacy? For more details and
+how to change this setting, see http://angular.io/analytics. Yes
+
+Thank you for sharing anonymous usage data. If you change your mind, the following
+command will disable this feature entirely:
+
+    ng analytics off
+
++ @angular/cli@8.3.17
+added 248 packages from 185 contributors in 755.102s
+
+C:\Users\james\Desktop\DatingApp\DatingApp.API>
