@@ -1,0 +1,13 @@
+
+-------------Adding gitHub as repository to the project----------------
+
+git init : initialize an empty git repository in the project folder which is DatingApp, but first we had to delete the git folder that angular 
+			install automatically while creating the angular app from the cli. 
+			
+			now after i add everything from the project that i wanna keep track of. now i create a repository from my github account 
+			and from the terminal i typed this : git remote add origin https://github.com/jameskreye/DatingApp.git
+			
+			up there in vsCode there is a section with 3 dots . i chose push to and this url : git remote add origin https://github.com/jameskreye/DatingApp.git
+			pops up. and i entered my git account username and password.  and just refresh the githug repository to see the changes
+			
+			now everytime i add a file to the project , i have to commit the change with an optional message and push it to my github repository.  
