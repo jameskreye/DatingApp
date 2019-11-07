@@ -1,0 +1,8 @@
+
+
+*****************************REQUIREMENTS**********************************
+
+-User should be able to register 
+-User should be able to login
+-user should be able to see a list of users 
+-user should be able to message another user
